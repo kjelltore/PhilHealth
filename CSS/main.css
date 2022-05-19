@@ -26,6 +26,7 @@ aside {
 	float: Right;
 	/*clear:  left;*/
 	height: 100%;
+	width: 100%;
 	padding: 10px
 }
 p {
@@ -36,7 +37,7 @@ footer {
 	width: 100%;
 }
 #asideSection {
-	
+
 }
 #asideArticle {
 	background: blue;
