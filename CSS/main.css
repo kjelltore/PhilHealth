@@ -25,6 +25,8 @@ aside {
 	width: 100px;
 	float: Right;
 	/*clear:  left;*/
+	height: 100%;
+	padding: 10px
 }
 p {
 	margin-top: 20px;
