@@ -6,11 +6,14 @@
 body {
 
 }
+nav {
+	background-color: lightblue;
+}
 section {
 	background: lightgrey;
 	width: 500px;
 	/*float: left;*/
-	/*clear: both;*/
+	*clear: right;*
 }
 article {
 	background: linear-gradient(grey, yellow);
