@@ -9,7 +9,7 @@ body {
 section {
 	background: lightgrey;
 	width: 500px;
-	/*float: left;*/
+	float: left;
 	clear: both;
 }
 article {
