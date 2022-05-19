@@ -21,8 +21,8 @@ article {
 	width: 500px;
 }
 aside {
-	background: blue;
-	width: 100px;
+	
+	
 	float: Right;
 	/*clear:  left;*/
 	height: 100%;
@@ -34,6 +34,13 @@ p {
 footer {
 	background-color: lightblue;
 	width: 100%;
+}
+#asideSection {
+	
+}
+#asideArticle {
+	background: blue;
+	width: 100px;
 }
 #box {
 	width: 500px;
