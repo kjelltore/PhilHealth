@@ -19,7 +19,7 @@ article {
 aside {
 	background: darkgrey;
 	width: 50px;
-	float: Right;
+	float: left;
 	/*clear:  left;*/
 }
 p {
