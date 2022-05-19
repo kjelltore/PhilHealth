@@ -21,13 +21,17 @@ article {
 	width: 500px;
 }
 aside {
-	background: darkgrey;
+	background: blue;
 	width: 100px;
 	float: Right;
 	/*clear:  left;*/
 }
 p {
 	margin-top: 20px;
+}
+footer {
+	background-color: lightblue;
+	width: 100%;
 }
 #box {
 	width: 500px;
