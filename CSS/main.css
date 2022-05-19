@@ -22,7 +22,7 @@ article {
 }
 aside {
 	background: darkgrey;
-	width: 50px;
+	width: 100px;
 	float: Right;
 	/*clear:  left;*/
 }
