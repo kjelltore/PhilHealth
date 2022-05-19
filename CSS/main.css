@@ -20,7 +20,7 @@ aside {
 	background: darkgrey;
 	width: 50px;
 	float: Right;
-	clear:  left;
+	/*clear:  left;*/
 }
 p {
 	margin-top: 20px;
