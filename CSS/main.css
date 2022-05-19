@@ -8,6 +8,7 @@ body {
 }
 nav {
 	background-color: lightblue;
+	width: 100%;
 }
 section {
 	background: lightgrey;
