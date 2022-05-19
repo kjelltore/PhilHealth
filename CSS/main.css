@@ -9,10 +9,18 @@ align-content: center;
 section {
 	background: lightgrey;
 	width: 500px;
+	float: left;
+	clear: both;
 }
 article {
 	background: linear-gradient(grey, yellow);
 	width: 500px;
+}
+aside {
+	background: darkgrey;
+	width: 50px;
+	float: Right;
+	clear: both;	
 }
 p {
 	margin-top: 20px;
