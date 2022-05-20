@@ -3,54 +3,8 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-body {
-
-}
-nav {
-	background-color: lightblue;
-	width: 100%;
-}
-section {
-	background: lightgrey;
-	width: 80%;
-	/*float: left;*/
-	*clear: right;*
-}
-article {
-	background: linear-gradient(grey, yellow);
-	
-}
-aside {
-	
-	
-	float: Right;
-	/*clear:  left;*/
-	height: 100%;
-	width: 20%;
-	min-width: 100%;
-	padding: 10px
-}
-p {
-	margin-top: 20px;
-}
-footer {
-	background-color: lightblue;
-	width: 100%;
-}
 #main {
-	max-width: 1000px;
-}
-#asideSection {
-
-}
-#asideArticle {
-	background: blue;
 	width: 100%;
-}
-#box {
-	width: 500px;
-	height: 500px;
-	background: black;
-	color: white;
-	overflow: auto;
+	max-width: 900px;
+	background-color: lightgrey;
 }
