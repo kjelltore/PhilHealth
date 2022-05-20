@@ -13,7 +13,8 @@ p {
 	height: 100px;
 }
 #p1 {
-	background-color: lightgrey;
+	background-color: grey;
+	float: right;
 }
 #p2 {
 	background-color: red;
