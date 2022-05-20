@@ -8,6 +8,10 @@
 	max-width: 900px;
 	background-color: lightgrey;
 }
+p {
+	width: 100px;
+	height: 100px;
+}
 #p1 {
 	background-color: lightgrey;
 }
