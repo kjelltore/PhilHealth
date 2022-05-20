@@ -2,28 +2,48 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	max-width: 1000px;
+	margin: auto;
+}
+header {
+	width: 100%;
+	background-color: white;
+}
+article {
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+/*aside {
+	background-color: green;
+	width: 100px;
+	height: 100px;
+}*/
+nav {
+	width: 100%;
+	background-color: #006cab;
+}
+footer {
+	width: 100%;
+	background-color: green;
+	text-align: center;
 }
 #main {
 	width: 100%;
-	max-width: 900px;
-	background-color: lightgrey;
-}
-p {
-	width: 100px;
-	height: 100px;
+	background-color: lightgrey;	
 }
 #p1 {
-	background-color: green;
+	background-color: green;	
 }
 #p2 {
-	background-color: red;
+	background-color: red;	
 }
 #p3 {
-	background-color: black;
+	background-color: black;	
 }
 #p4 {
-	background-color: blue;
+	background-color: blue;	
 }
 #p5 {
-	background-color: yellow;
+	background-color: yellow;	
 }
