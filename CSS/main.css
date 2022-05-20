@@ -14,13 +14,13 @@ p {
 }
 #p1 {
 	background-color: green;
-	float: right;
 }
 #p2 {
 	background-color: red;
 }
 #p3 {
 	background-color: black;
+	float: right;
 }
 #p4 {
 	background-color: blue;
