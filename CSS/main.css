@@ -15,6 +15,7 @@ article {
 	width: 100%;
 	min-height: 100px;
 	margin-top: 10px;
+	padding-left: 10px;
 }
 /*aside {
 	background-color: green;
@@ -27,7 +28,7 @@ nav {
 }
 footer {
 	width: 100%;
-	background-color: green;
+	
 	text-align: center;
 	margin-top: 10px;
 }
@@ -35,3 +36,19 @@ footer {
 	width: 100%;
 	background-color: white;
 	margin-top: 10px;
+	box-shadow: 0px 10px 8px 10px #014c78;
+}
+#doc {
+	max-height: 400px;
+	float: right;
+
+}
+#clinic {
+	max-height: 400px;
+	float: left;
+	margin-right: 10px;
+}
+#pointer{
+	max-height: 400px;
+	float: right;
+}
