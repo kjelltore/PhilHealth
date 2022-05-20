@@ -12,13 +12,13 @@ nav {
 }
 section {
 	background: lightgrey;
-	width: 500px;
+	width: 80%;
 	/*float: left;*/
 	*clear: right;*
 }
 article {
 	background: linear-gradient(grey, yellow);
-	width: 500px;
+	
 }
 aside {
 	
@@ -26,7 +26,8 @@ aside {
 	float: Right;
 	/*clear:  left;*/
 	height: 100%;
-	width: 100%;
+	width: 20%;
+	min-width: 100%;
 	padding: 10px
 }
 p {
@@ -36,12 +37,15 @@ footer {
 	background-color: lightblue;
 	width: 100%;
 }
+#main {
+	max-width: 1000px;
+}
 #asideSection {
 
 }
 #asideArticle {
 	background: blue;
-	width: 100px;
+	width: 100%;
 }
 #box {
 	width: 500px;
